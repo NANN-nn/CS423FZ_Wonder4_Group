@@ -14,7 +14,7 @@
 
 [中文介绍](#中文介绍) · [English](#english) · [开始体验 / Play](#开始体验--get-started) · [操作 / Controls](#操作--controls)
 
-![控制室实机画面 · In-game control room](https://raw.githubusercontent.com/NANN-nn/Zero-duty/final-delivery-native-ui/Docs/media/control-room.png)
+![控制室实机画面 · In-game control room](https://raw.githubusercontent.com/NANN-nn/CS423FZ_Wonder4_Group/final-delivery-native-ui/Docs/media/control-room.png)
 
 </div>
 
@@ -96,26 +96,26 @@ The story unfolds through those objects, the handbook, scattered notes, and the 
 
 <table>
   <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/NANN-nn/Zero-duty/final-delivery-native-ui/Docs/media/start-menu.png" alt="动态开始页面 / Live start menu" width="100%"><br><b>夜班开始 · A shift begins</b><br>实时控制室、屏幕干扰与警示灯。<br>A live control room with screen interference and warning lights.</td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/NANN-nn/Zero-duty/final-delivery-native-ui/Docs/media/handbook-zh.png" alt="双页员工手册 / Two-page handbook" width="100%"><br><b>留给下一班的话 · For the next shift</b><br>双页手册和场景笔记承载规则与故事。<br>Rules and fragments of the story, left for you to read.</td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/NANN-nn/CS423FZ_Wonder4_Group/final-delivery-native-ui/Docs/media/start-menu.png" alt="动态开始页面 / Live start menu" width="100%"><br><b>夜班开始 · A shift begins</b><br>实时控制室、屏幕干扰与警示灯。<br>A live control room with screen interference and warning lights.</td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/NANN-nn/CS423FZ_Wonder4_Group/final-delivery-native-ui/Docs/media/handbook-zh.png" alt="双页员工手册 / Two-page handbook" width="100%"><br><b>留给下一班的话 · For the next shift</b><br>双页手册和场景笔记承载规则与故事。<br>Rules and fragments of the story, left for you to read.</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/NANN-nn/Zero-duty/final-delivery-native-ui/Docs/media/gas-panel.png" alt="气阀调节 / Pressure regulation" width="100%"><br><b>稳住压力 · Keep it steady</b><br>按住与松开之间，稳住三个通道。<br>Balance hold and release across three channels.</td>
-    <td><img src="https://raw.githubusercontent.com/NANN-nn/Zero-duty/final-delivery-native-ui/Docs/media/power-panel.png" alt="电闸解谜 / Breaker puzzle" width="100%"><br><b>重新接通 · Reconnect</b><br>旋转线路、彩灯顺序与三个独立拉杆。<br>Rotating contacts, colored signals, and three levers.</td>
+    <td><img src="https://raw.githubusercontent.com/NANN-nn/CS423FZ_Wonder4_Group/final-delivery-native-ui/Docs/media/gas-panel.png" alt="气阀调节 / Pressure regulation" width="100%"><br><b>稳住压力 · Keep it steady</b><br>按住与松开之间，稳住三个通道。<br>Balance hold and release across three channels.</td>
+    <td><img src="https://raw.githubusercontent.com/NANN-nn/CS423FZ_Wonder4_Group/final-delivery-native-ui/Docs/media/power-panel.png" alt="电闸解谜 / Breaker puzzle" width="100%"><br><b>重新接通 · Reconnect</b><br>旋转线路、彩灯顺序与三个独立拉杆。<br>Rotating contacts, colored signals, and three levers.</td>
   </tr>
 </table>
 
 <details>
 <summary><b>英文手册 / English handbook</b></summary>
 
-![English handbook](https://raw.githubusercontent.com/NANN-nn/Zero-duty/final-delivery-native-ui/Docs/media/handbook-en.png)
+![English handbook](https://raw.githubusercontent.com/NANN-nn/CS423FZ_Wonder4_Group/final-delivery-native-ui/Docs/media/handbook-en.png)
 
 </details>
 
 <details>
 <summary><b>最终控制器 / Final controller · 轻微流程剧透 / Minor progression spoiler</b></summary>
 
-![Final protocol controller](https://raw.githubusercontent.com/NANN-nn/Zero-duty/final-delivery-native-ui/Docs/media/final-controller.png)
+![Final protocol controller](https://raw.githubusercontent.com/NANN-nn/CS423FZ_Wonder4_Group/final-delivery-native-ui/Docs/media/final-controller.png)
 
 所有异常处理结束后，最终控制器解锁。选择后播放实时结局短镜头，画面居中、黑底，字幕位于下方。
 
@@ -138,7 +138,7 @@ Install Git and Git LFS, then run the following. Some Blender sources use LFS; c
 
 ```bash
 git lfs install
-git clone --branch final-delivery-native-ui --single-branch https://github.com/NANN-nn/Zero-duty.git End-of-Shift-Final
+git clone --branch final-delivery-native-ui --single-branch https://github.com/NANN-nn/CS423FZ_Wonder4_Group.git End-of-Shift-Final
 cd End-of-Shift-Final
 git lfs pull
 ```
@@ -176,10 +176,10 @@ During gas and breaker puzzles, ESC opens pause; resuming returns to the puzzle.
 
 | 文档 / Path | 内容 / Contents |
 | :--- | :--- |
-| [交付与测试指南 / Delivery guide](https://github.com/NANN-nn/Zero-duty/blob/final-delivery-native-ui/Docs/DELIVERY_GUIDE.md) | 交接、构建和测试快捷键 / Handover, builds, and test shortcuts (Chinese) |
-| [项目架构 / Project guide](https://github.com/NANN-nn/Zero-duty/blob/final-delivery-native-ui/Docs/PROJECT_GUIDE.md) | 系统维护入口 / Architecture and maintenance |
-| [原生 UI 改动 / Native UI notes](https://github.com/NANN-nn/Zero-duty/blob/final-delivery-native-ui/NATIVE_UI_README.md) | 界面与实时镜头 / Interfaces and real-time films |
-| [素材记录 / Asset register](https://github.com/NANN-nn/Zero-duty/blob/final-delivery-native-ui/Docs/ASSET_REGISTER.md) · [音频 / Audio](https://github.com/NANN-nn/Zero-duty/blob/final-delivery-native-ui/ArtSource/AUDIO_SOURCES.md) | 素材和字体来源 / Asset and font credits |
+| [交付与测试指南 / Delivery guide](https://github.com/NANN-nn/CS423FZ_Wonder4_Group/blob/final-delivery-native-ui/Docs/DELIVERY_GUIDE.md) | 交接、构建和测试快捷键 / Handover, builds, and test shortcuts (Chinese) |
+| [项目架构 / Project guide](https://github.com/NANN-nn/CS423FZ_Wonder4_Group/blob/final-delivery-native-ui/Docs/PROJECT_GUIDE.md) | 系统维护入口 / Architecture and maintenance |
+| [原生 UI 改动 / Native UI notes](https://github.com/NANN-nn/CS423FZ_Wonder4_Group/blob/final-delivery-native-ui/NATIVE_UI_README.md) | 界面与实时镜头 / Interfaces and real-time films |
+| [素材记录 / Asset register](https://github.com/NANN-nn/CS423FZ_Wonder4_Group/blob/final-delivery-native-ui/Docs/ASSET_REGISTER.md) · [音频 / Audio](https://github.com/NANN-nn/CS423FZ_Wonder4_Group/blob/final-delivery-native-ui/ArtSource/AUDIO_SOURCES.md) | 素材和字体来源 / Asset and font credits |
 | `Assets/scripts/Gameplay/` | 玩法、界面、双语、音频、结局 / Gameplay, UI, localization, audio, endings |
 | `ArtSource/` | Blender 源文件与工具 / Blender sources and production tools |
 
@@ -197,6 +197,6 @@ This version uses native geometry for panels and paper UI, with Unity-rendered s
 
 *The lights are still on. Your shift isn't over yet.*
 
-[NANN-nn / Zero-duty](https://github.com/NANN-nn/Zero-duty) · **最终交付版 / Final Delivery**
+[NANN-nn / CS423FZ_Wonder4_Group](https://github.com/NANN-nn/CS423FZ_Wonder4_Group) · **最终交付版 / Final Delivery**
 
 </div>
