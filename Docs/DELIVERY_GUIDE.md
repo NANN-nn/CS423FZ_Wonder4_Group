@@ -6,15 +6,15 @@
 
 ## 交付入口与下载
 
-**分享地址：<https://github.com/NANN-nn/Zero-duty/tree/final-delivery-native-ui>**
+**分享地址：<https://github.com/NANN-nn/CS423FZ_Wonder4_Group/tree/final-delivery-native-ui>**
 
-仓库：<https://github.com/NANN-nn/Zero-duty> · 分支：`final-delivery-native-ui`
+仓库：<https://github.com/NANN-nn/CS423FZ_Wonder4_Group> · 分支：`final-delivery-native-ui`
 
 推荐安装 Git 和 Git LFS，按以下命令下载：
 
 ```powershell
 git lfs install
-git clone --branch final-delivery-native-ui --single-branch https://github.com/NANN-nn/Zero-duty.git End-of-Shift-Final
+git clone --branch final-delivery-native-ui --single-branch https://github.com/NANN-nn/CS423FZ_Wonder4_Group.git End-of-Shift-Final
 cd End-of-Shift-Final
 git lfs pull
 ```

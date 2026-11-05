@@ -21,7 +21,7 @@ It records known origins; it does not assign unverified authorship to supplied f
 
 ## Public references
 
-- Project repository: https://github.com/NANN-nn/Zero-duty
+- Project repository: https://github.com/NANN-nn/CS423FZ_Wonder4_Group
 - Unity 6.4 manual: https://docs.unity3d.com/6000.4/Documentation/Manual/index.html
 - URP: https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.4/manual/index.html
 - Input System: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.19/manual/index.html

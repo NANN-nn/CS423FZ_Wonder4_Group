@@ -138,7 +138,7 @@ Install Git and Git LFS, then run the following. Some Blender sources use LFS; c
 
 ```bash
 git lfs install
-git clone --branch final-delivery-native-ui --single-branch https://github.com/NANN-nn/Zero-duty.git End-of-Shift-Final
+git clone --branch final-delivery-native-ui --single-branch https://github.com/NANN-nn/CS423FZ_Wonder4_Group.git End-of-Shift-Final
 cd End-of-Shift-Final
 git lfs pull
 ```
@@ -197,6 +197,6 @@ This version uses native geometry for panels and paper UI, with Unity-rendered s
 
 *The lights are still on. Your shift isn't over yet.*
 
-[NANN-nn / Zero-duty](https://github.com/NANN-nn/Zero-duty) · **最终交付版 / Final Delivery**
+[NANN-nn / CS423FZ_Wonder4_Group](https://github.com/NANN-nn/CS423FZ_Wonder4_Group) · **最终交付版 / Final Delivery**
 
 </div>
